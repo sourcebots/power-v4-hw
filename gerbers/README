@@ -1,0 +1,14 @@
+Contact:
+  Kier Davis <kierdavis@gmail.com>
+
+Files included:
+  power.gml  Outline
+  power.gtl  Top (layer 1) copper
+  power.g1   Layer 2 copper
+  power.g2   Layer 3 copper
+  power.gbl  Bottom (layer 4) copper
+  power.gts  Top solder mask
+  power.gbs  Bottom solder mask
+  power.gto  Top silk
+  power.gbo  Bottom silk
+  power.txt  Drill information
