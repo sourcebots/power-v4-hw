@@ -33,7 +33,7 @@ T 65400 43400 9 10 1 0 0 1 1
 Supply (Power Switch, UVLO, 3V3 & 5V SMPS, Output Control and Monitoring)
 T 40500 40500 9 45 1 0 0 0 2
 The full source of this design is available at:
-https://www.studentrobotics.org/git/boards/power-v4-hw.git
+https://github.com/srobo/power-v4-hw
 T 64000 47800 9 40 1 0 0 4 1
 USB
 V 64000 47800 1100 3 100 1 0 -1 -1 0 -1 -1 -1 -1 -1
