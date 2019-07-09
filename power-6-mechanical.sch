@@ -1,4 +1,4 @@
-v 20111231 2
+v 20130925 2
 C 47000 34500 0 0 0 title-A1.sym
 T 73100 35300 9 28 1 0 0 0 1
 Power Board v4 - Mechanical
@@ -329,4 +329,22 @@ T 57400 41700 5 10 1 1 0 0 1
 value=sr-nothing
 T 57400 41400 5 10 1 1 0 0 1
 comment=case_sticker.svg in clear vinyl window sticker
+}
+C 66900 41900 1 0 0 fiducial-1.sym
+{
+T 66900 42600 5 10 0 0 0 0 1
+device=none
+T 66907 43000 5 10 0 0 0 0 1
+footprint=FIDUCIAL_sr.fp
+T 66907 42400 5 10 1 1 0 0 1
+refdes=FID1
+}
+C 68700 41900 1 0 0 fiducial-1.sym
+{
+T 68700 42600 5 10 0 0 0 0 1
+device=none
+T 68707 43000 5 10 0 0 0 0 1
+footprint=FIDUCIAL_sr.fp
+T 68707 42400 5 10 1 1 0 0 1
+refdes=FID2
 }

@@ -6130,6 +6130,20 @@ Element["" "0402_sr.fp" "C63" "sr-c-100n-0402-16v" 35.2000mm 28.1000mm -0.4000mm
 	ElementLine [-0.5000mm -0.9500mm 0.5000mm -0.9500mm 0.1500mm]
 
 	)
+
+Element["" "FIDUCIAL_sr.fp" "FID2" "unknown" 63.9000mm 81.2000mm -3.9000mm -0.7000mm 0 100 ""]
+(
+	ElementLine [0.0000 -0.5000mm 0.0000 0.5000mm 10.00mil]
+	ElementLine [-0.5000mm 0.0000 0.5000mm 0.0000 10.00mil]
+
+	)
+
+Element["" "FIDUCIAL_sr.fp" "FID1" "unknown" 26.7000mm 17.1000mm -1.9000mm 0.4000mm 1 100 ""]
+(
+	ElementLine [0.0000 -0.5000mm 0.0000 0.5000mm 10.00mil]
+	ElementLine [-0.5000mm 0.0000 0.5000mm 0.0000 10.00mil]
+
+	)
 Layer(1 "top")
 (
 	Line[40.0800mm 82.9950mm 39.3050mm 82.9950mm 0.5000mm 0.5000mm ""]
